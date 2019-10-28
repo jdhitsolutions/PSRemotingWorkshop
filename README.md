@@ -15,8 +15,12 @@ How to use disconnected sessions and we'll dive into Just Enough Administration.
 
 Intermediate / Advanced
 
-## Objectives
+## Agenda
 
-- How to create and deploy a JEA endpoint
-- How to use SSH remoting with PowerShell Core
-- How to securely setup PowerShell remoting
+- PowerShell Remoting Fundamentals
+- Using Disconnected Sessions
+- Handling the 2nd hop
+- Configuring Remoting with SSL
+- Cross-Platform Remoting
+- Just Enough Administration
+- Your Remoting Questions Answered
